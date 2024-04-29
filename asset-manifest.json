@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Desktop_portfolio/static/css/main.fd1b4e2a.css",
-    "main.js": "/Desktop_portfolio/static/js/main.42223b5c.js",
-    "static/js/787.749b4a44.chunk.js": "/Desktop_portfolio/static/js/787.749b4a44.chunk.js",
+    "main.css": "/Desktop_portfolio/static/css/main.33613039.css",
+    "main.js": "/Desktop_portfolio/static/js/main.4b8c95ca.js",
+    "static/js/453.2ddb282f.chunk.js": "/Desktop_portfolio/static/js/453.2ddb282f.chunk.js",
     "static/media/house_master.mp3": "/Desktop_portfolio/static/media/house_master.c7658602090fa4de7901.mp3",
     "static/media/saga.mp4": "/Desktop_portfolio/static/media/saga.64fb7e405cdad323c668.mp4",
     "static/media/edge_unmastered.mp3": "/Desktop_portfolio/static/media/edge_unmastered.5fda28a397a77f0cd67d.mp3",
@@ -31,12 +31,12 @@
     "static/media/linkedin.png": "/Desktop_portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
     "static/media/music-cd2.png": "/Desktop_portfolio/static/media/music-cd2.b1cad57a6160aa6d1200.png",
     "index.html": "/Desktop_portfolio/index.html",
-    "main.fd1b4e2a.css.map": "/Desktop_portfolio/static/css/main.fd1b4e2a.css.map",
-    "main.42223b5c.js.map": "/Desktop_portfolio/static/js/main.42223b5c.js.map",
-    "787.749b4a44.chunk.js.map": "/Desktop_portfolio/static/js/787.749b4a44.chunk.js.map"
+    "main.33613039.css.map": "/Desktop_portfolio/static/css/main.33613039.css.map",
+    "main.4b8c95ca.js.map": "/Desktop_portfolio/static/js/main.4b8c95ca.js.map",
+    "453.2ddb282f.chunk.js.map": "/Desktop_portfolio/static/js/453.2ddb282f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd1b4e2a.css",
-    "static/js/main.42223b5c.js"
+    "static/css/main.33613039.css",
+    "static/js/main.4b8c95ca.js"
   ]
 }
