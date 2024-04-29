@@ -2,6 +2,7 @@
   "name": "portfolio-website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rakholiyajay.github.io/Desktop_portfolio",
   "dependencies": {
     "@testing-library/react": "^12.1.4",
     "@types/react": "^17.0.40",
