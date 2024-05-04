@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Desktop_portfolio/static/css/main.fd1b4e2a.css",
+    "main.js": "/Desktop_portfolio/static/js/main.e84f8301.js",
+    "static/js/787.749b4a44.chunk.js": "/Desktop_portfolio/static/js/787.749b4a44.chunk.js",
+    "static/media/house_master.mp3": "/Desktop_portfolio/static/media/house_master.c7658602090fa4de7901.mp3",
+    "static/media/saga.mp4": "/Desktop_portfolio/static/media/saga.64fb7e405cdad323c668.mp4",
+    "static/media/edge_unmastered.mp3": "/Desktop_portfolio/static/media/edge_unmastered.5fda28a397a77f0cd67d.mp3",
+    "static/media/coading.jpg": "/Desktop_portfolio/static/media/coading.c38212ca6ae9194e2ec3.jpg",
+    "static/media/output-onlinegiftools.gif": "/Desktop_portfolio/static/media/output-onlinegiftools.b91834bf957157c75036.gif",
+    "static/media/break.mp3": "/Desktop_portfolio/static/media/break.ca994a82925ac512580d.mp3",
+    "static/media/dnb_drop_drums.mp3": "/Desktop_portfolio/static/media/dnb_drop_drums.24751dc8ad05058a701a.mp3",
+    "static/media/scroll.mp4": "/Desktop_portfolio/static/media/scroll.c813ed50d6d7bb41417a.mp4",
+    "static/media/computer.mp4": "/Desktop_portfolio/static/media/computer.f6d03fdb3cc6238c1dd0.mp4",
+    "static/media/resume-unscreen.gif": "/Desktop_portfolio/static/media/resume-unscreen.42a8f5c155d0566dbeb5.gif",
+    "static/media/musicnew.gif": "/Desktop_portfolio/static/media/musicnew.95dddf2b0dd5dfb50166.gif",
+    "static/media/Paint.gif": "/Desktop_portfolio/static/media/Paint.06268d0c79ce4b76ceda.gif",
+    "static/media/blackphoto.jpg": "/Desktop_portfolio/static/media/blackphoto.63205b7d70f0a949566e.jpg",
+    "static/media/MSSansSerif.ttf": "/Desktop_portfolio/static/media/MSSansSerif.aa14e7b110864a3c2e08.ttf",
+    "static/media/houseProject.png": "/Desktop_portfolio/static/media/houseProject.fdb8b40ccf0bed8a6554.png",
+    "static/media/dnbDrumsProject.png": "/Desktop_portfolio/static/media/dnbDrumsProject.c9dace015fac3b0a06af.png",
+    "static/media/Jay_Rakholiya_S24_Resume.pdf": "/Desktop_portfolio/static/media/Jay_Rakholiya_S24_Resume.af51c0971cfa31a927f7.pdf",
+    "static/media/ee.jpg": "/Desktop_portfolio/static/media/ee.7656e3a317181c8a39b1.jpg",
+    "static/media/this pc.png": "/Desktop_portfolio/static/media/this pc.00fd14d59068632e42c8.png",
+    "static/media/Terminal.ttf": "/Desktop_portfolio/static/media/Terminal.6a1b7290048681921b2c.ttf",
+    "static/media/neverGiveUp.jpg": "/Desktop_portfolio/static/media/neverGiveUp.c9ee4e48677de77065a9.jpg",
+    "static/media/Millennium.ttf": "/Desktop_portfolio/static/media/Millennium.e16d74a8e8e0567ce30e.ttf",
+    "static/media/Millennium-Bold.ttf": "/Desktop_portfolio/static/media/Millennium-Bold.cd5e3be832ebd008c852.ttf",
+    "static/media/github.png": "/Desktop_portfolio/static/media/github.f11021803f68852df283.png",
+    "static/media/twitter.png": "/Desktop_portfolio/static/media/twitter.894988327f8d68209e91.png",
+    "static/media/linkedin.png": "/Desktop_portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/music-cd2.png": "/Desktop_portfolio/static/media/music-cd2.b1cad57a6160aa6d1200.png",
+    "index.html": "/Desktop_portfolio/index.html",
+    "main.fd1b4e2a.css.map": "/Desktop_portfolio/static/css/main.fd1b4e2a.css.map",
+    "main.e84f8301.js.map": "/Desktop_portfolio/static/js/main.e84f8301.js.map",
+    "787.749b4a44.chunk.js.map": "/Desktop_portfolio/static/js/787.749b4a44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd1b4e2a.css",
+    "static/js/main.e84f8301.js"
+  ]
+}
