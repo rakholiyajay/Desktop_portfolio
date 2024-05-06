@@ -90,12 +90,8 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                 <div style={styles.header}>
                     <div style={styles.headerRow}>
                         <h1>Face Recognition System</h1>
-                        <a
-                            target="_blank"
-                            rel="noreferrer"
-                            href={'https://bracs.co/'}
-                        >
-                            <h4>www.bracs.co</h4>
+                        <a target="_blank" rel="noreferrer" href={''}>
+                            <h4>www.jay.co</h4>
                         </a>
                     </div>
                     <div style={styles.headerRow}>
